@@ -261,3 +261,47 @@
   261  git commit
   262  git status
   263  history > commands.txt
+  264  git status
+  265  git add .
+  266  git status
+  267  git commit -m "feat: add terminal commands history text file"
+  268  git status
+  269  git branch
+  270  git rebase --interactive --root
+  271  git log --oneline
+  272  ./element.sh 10
+  273  ./element.sh 9
+  274  ./element.sh Neon
+  275  ./element.sh 9
+  276  ./element.sh 9
+  277  ./element.sh 4
+  278  git branch
+  279  git remote add origin https://github.com/thomascansino/P55-Periodic-Table-Database.git
+  280  git branch -M main
+  281  git push -u origin main
+  282  git remote add origin https://github.com/thomascansino/P55-Periodic-Table-Database.git
+  283  git branch -M main
+  284  git push -u origin main
+  285  git status
+  286  git branch
+  287  git log --oneline
+  288  git status
+  289  pg_dump -cC --inserts -U freecodecamp > periodic_table.sql
+  290  git status
+  291  git checkout -b fix/delete-database-redundant-columns
+  292  git branch
+  293  git status
+  294  git add .
+  295  git commit -m "fix: deleted redundant columns in the database"
+  296  git status
+  297  git log --oneline
+  298  git checkout main
+  299  git branch
+  300  git merge fix/delete-database-redundant-columns
+  301  git status
+  302  git status
+  303  git branch
+  304  git branch -d fix/delete-database-redundant-columns
+  305  git branch
+  306  git status
+  307  history > commands.txt
