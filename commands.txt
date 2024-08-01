@@ -1,0 +1,263 @@
+    1  pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+    2  mkdir periodic_table
+    3  cd periodic_table
+    4  git init
+    5  git branch
+    6  git status
+    7  git branch main
+    8  git branch
+    9  git status
+   10  git config --global init.defaultBranch main
+   11  git status
+   12  git branch -m main
+   13  git status
+   14  git branch
+   15  git status
+   16  git add .
+   17  git status
+   18  git status
+   19  git add .
+   20  git status
+   21  git commit -m "feat: add periodic table sql"
+   22  git status
+   23  git branch
+   24  git log --oneline
+   25  touch element.sh
+   26  chmod +x element.sh
+   27  ./element.sh
+   28  git status
+   29  git stash
+   30  git stash
+   31  git branch feat/add-element-script
+   32  git branch
+   33  git checkout feat/add-element-script
+   34  git branch
+   35  git add .
+   36  git status
+   37  git commit -m "feat: add element script"
+   38  git status
+   39  git branch
+   40  git checkout main
+   41  git checkout feat/add-element-script
+   42  git checkout main
+   43  git branch
+   44  git merge feat/add-element-script
+   45  git branch
+   46  git status
+   47  git branch -d feat/add-element-script
+   48  git branch
+   49  git log --oneline
+   50  git branch
+   51  git checkout -b feat/add-code-to-element-script
+   52  git branch
+   53  git checkout -b feat/modify-periodic-table-database
+   54  git branch
+   55  git status
+   56  pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+   57  git status
+   58  git branch
+   59  git log --oneline
+   60  git checkout main
+   61  git log --oneline
+   62  git rebase --interactive --root
+   63  git status
+   64  git branch
+   65  git checkout feat/modify-periodict-table-database
+   66  git checkout feat/modify-periodic-table-database
+   67  git branch
+   68  git status
+   69  git add .
+   70  git commit -m "feat: deleted atomic_number 1000 from properties and elements tables"
+   71  git status
+   72  git branch
+   73  git rebase --interactive --root
+   74  git log --oneline
+   75  git rebase --i
+   76  git rebase --i --root
+   77  git rebase --interactive --root
+   78  git log --oneline
+   79  git branch
+   80  git rebase --interactive --root
+   81  git log --oneline
+   82  git branch
+   83  git checkout main
+   84  git log --oneline
+   85  git branch
+   86  git checkout feat/add-code-to-element-script
+   87  git branch
+   88  git rebase main
+   89  git branch
+   90  git main
+   91  git checkout main
+   92  git branch
+   93  git status
+   94  git checkout feat/modify-periodic-table-database
+   95  git status
+   96  git checkout main
+   97  git merge feat/modify-periodic-table-database
+   98  git status
+   99  git branch -d feat/modify-periodic-table-database
+  100  git branch
+  101  git branch -d feat/modify-periodic-table-database
+  102  git branch -D feat/modify-periodic-table-database
+  103  git branch
+  104  git status
+  105  git status
+  106  git checkout feat/add-code-to-element-script
+  107  git branch
+  108  git status
+  109  git log --oneline
+  110  git add .
+  111  git branch
+  112  git status
+  113  git status
+  114  ./element.sh
+  115  ./element.sh $1
+  116  ./element.sh $1
+  117  ./element.sh 1
+  118  ./element.sh 1
+  119  ./element.sh 2
+  120  ./element.sh 999
+  121  ./element.sh 2
+  122  ./element.sh 1
+  123  ./element.sh 1
+  124  ./element.sh 1
+  125  ./element.sh 1
+  126  ./element.sh 1
+  127  ./element.sh
+  128  ./element.sh 1
+  129  ./element.sh 1
+  130  ./element.sh 1
+  131  ./element.sh 1
+  132  ./element.sh Hydrogen
+  133  ./element.sh Fluorine
+  134  ./element.sh '1'
+  135  ./element.sh 'edi wow'
+  136  ./element.sh 'edi wow'
+  137  ./element.sh 1
+  138  ./element.sh 10
+  139  ./element.sh H
+  140  ./element.sh Hydrogen
+  141  pg_dump --cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+  142  pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
+  143  psql --username=freecodecamp --dbname=periodic_table
+  144  psql -U postgres < periodic_table.sql
+  145  cd periodic_table
+  146  psql -U postgres < periodic_table.sql
+  147  git log --oneline
+  148  git branch
+  149  ./element.sh 1
+  150  ./element.sh 10
+  151  ./element.sh 9
+  152  ./element.sh 1
+  153  ./element.sh 1
+  154  ./element.sh 2
+  155  ./element.sh 10
+  156  ./element.sh 11
+  157  ./element.sh 12
+  158  10
+  159  ./element.sh 1
+  160  ./element.sh
+  161  ./element.sh 1
+  162  ./element.sh 2
+  163  ./element.sh 11
+  164  ./element.sh 10
+  165  ./element.sh Fluorine
+  166  ./element.sh fluorine
+  167  ./element.sh fluorin
+  168  ./element.sh 1
+  169  ./element.sh Neon
+  170  ./element.sh Ne
+  171  ./element.sh ne
+  172  ./element.sh ne
+  173  ./element.sh Ne
+  174  ./element.sh Fluorine
+  175  .element.sh
+  176  ./element.sh
+  177  ./element.sh
+  178  ./element.sh
+  179  ./element.sh
+  180  ./element.sh
+  181  ./element.sh ne
+  182  ./element.sh Neon
+  183  ./element.sh hydrogen
+  184  ./element.sh Hydrogen
+  185  ./element.sh 12
+  186  ./element.sh h
+  187  ./element.sh
+  188  ./element.sh
+  189  ./element.sh
+  190  ./element.sh
+  191  ./element.sh
+  192  ./element.sh
+  193  ./element.sh 1
+  194  ./element.sh 11
+  195  ./element.sh 11
+  196  ./element.sh 11
+  197  ./element.sh 1
+  198  ./element.sh 1
+  199  ./element.sh 1
+  200  ./element.sh h
+  201  ./element.sh hydrogen
+  202  ./element.sh
+  203  ./element.sh
+  204  ./element.sh 12
+  205  ./element.sh 1
+  206  ./element.sh 10
+  207  ./element.sh fluorine
+  208  ./element.sh h
+  209  ./element.sh H
+  210  git status
+  211  git log --oneline
+  212  git branch
+  213  git checkout main
+  214* git log -
+  215  git checkout feat/add-code-to-element-script
+  216  git status
+  217  git branch
+  218  git add .
+  219  git status
+  220  git commit -m "feat: finish element script"
+  221  git status
+  222  git branch
+  223  git status
+  224  git checkout main
+  225  git merge feat/add-code-to-element-script
+  226  git branch
+  227  git branch -d feat/add-code-to-element-script
+  228  git status
+  229  git log --oneline
+  230  git rebase --interactive --root
+  231  git branch
+  232  git status
+  233  git checkout -b feat/add-atomic-mass-txt
+  234  git branch
+  235  git add .
+  236  git status
+  237  git checkout main
+  238  git status
+  239  git checkout feat/add-atomic-mass-txt
+  240  git branch
+  241  git status
+  242  git status
+  243  git checkout main
+  244  git status
+  245  git feat add/atomic-mass-txt
+  246  git checkout feat/add-atomic-mass-txt
+  247  git branch
+  248  git log --oneline
+  249  git commit -m "feat: add atomic mass txt file"
+  250  git status
+  251  git log --oneline
+  252  git checkout main
+  253  git merge feat/add-atomic-mass-txt
+  254  git status
+  255  git main
+  256  git branch
+  257  git branch -d feat/add-atomic-mass-txt
+  258  git branch
+  259  git log
+  260  git log --oneline
+  261  git commit
+  262  git status
+  263  history > commands.txt
